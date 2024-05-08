@@ -1,0 +1,83 @@
+{
+    "programs": [
+      {
+        "name": "Bachelor of Science in Computer Science",
+        "degree": "Bachelor's",
+        "level": "Undergraduate",
+        "duration": "4 years",
+        "description": "The Bachelor of Science in Computer Science program provides students with a comprehensive understanding of computer science theory and practical skills. Students learn programming languages, algorithms, data structures, software engineering principles, and more.",
+        "requirements": {
+          "GPA": "3.0 or higher",
+          "SAT/ACT": "Minimum SAT score of 1200 or ACT score of 25",
+          "Prerequisites": ["Calculus", "Computer Science Fundamentals"]
+        },
+        "bannerImg": "bsc_cs_banner.jpg"
+      },
+      {
+        "name": "Master of Science in Computer Engineering",
+        "degree": "Master's",
+        "level": "Graduate",
+        "duration": "2 years",
+        "description": "The Master of Science in Computer Engineering program offers advanced study in hardware and software aspects of computer systems. Students delve into areas such as computer architecture, embedded systems, VLSI design, and parallel computing.",
+        "requirements": {
+          "GPA": "3.2 or higher",
+          "GRE": "Minimum GRE scores of 155 (Quantitative) and 150 (Verbal)",
+          "Prerequisites": ["Computer Organization", "Digital Logic Design"]
+        },
+        "bannerImg": "ms_computer_eng_banner.jpg"
+      },
+      {
+        "name": "Ph.D. in Computer Science",
+        "degree": "Doctorate",
+        "level": "Graduate",
+        "duration": "4-6 years",
+        "description": "The Ph.D. in Computer Science program is designed for students interested in pursuing research in various areas of computer science. Students conduct original research under the guidance of faculty mentors and contribute to advancements in the field.",
+        "requirements": {
+          "GPA": "3.5 or higher",
+          "GRE": "Minimum GRE scores of 160 (Quantitative) and 155 (Verbal)",
+          "Research Experience": "Strong research background with published papers"
+        },
+        "bannerImg": "phd_cs_banner.jpg"
+      },
+      {
+        "name": "Bachelor of Technology in Artificial Intelligence",
+        "degree": "Bachelor's",
+        "level": "Undergraduate",
+        "duration": "4 years",
+        "description": "The Bachelor of Technology in Artificial Intelligence program focuses on the theory and application of AI technologies. Students learn about machine learning, natural language processing, robotics, and autonomous systems.",
+        "requirements": {
+          "GPA": "3.0 or higher",
+          "SAT/ACT": "Minimum SAT score of 1200 or ACT score of 25",
+          "Prerequisites": ["Calculus", "Probability and Statistics"]
+        },
+        "bannerImg": "btech_ai_banner.jpg"
+      },
+      {
+        "name": "Master of Science in Cybersecurity",
+        "degree": "Master's",
+        "level": "Graduate",
+        "duration": "2 years",
+        "description": "The Master of Science in Cybersecurity program prepares students to tackle the growing challenges of securing digital systems and networks. Students gain expertise in areas such as cryptography, network security, ethical hacking, and risk management.",
+        "requirements": {
+          "GPA": "3.2 or higher",
+          "GRE": "Minimum GRE scores of 155 (Quantitative) and 150 (Verbal)",
+          "Prerequisites": ["Computer Networks", "Information Security"]
+        },
+        "bannerImg": "ms_cybersecurity_banner.jpg"
+      },
+      {
+        "name": "Dual Degree Program: B.S. in Computer Science and M.S. in Data Science",
+        "degree": "Bachelor's and Master's",
+        "level": "Undergraduate and Graduate",
+        "duration": "5 years",
+        "description": "The Dual Degree Program offers students the opportunity to earn both a Bachelor of Science in Computer Science and a Master of Science in Data Science in five years of study. This integrated program provides a solid foundation in computer science along with specialized training in data science and analytics.",
+        "requirements": {
+          "GPA": "3.2 or higher",
+          "SAT/ACT": "Minimum SAT score of 1300 or ACT score of 28",
+          "Prerequisites": ["Calculus", "Statistics"]
+        },
+        "bannerImg": "dual_degree_banner.jpg"
+      }
+    ]
+  }
+  
