@@ -8,18 +8,22 @@ const BannerMessage = () => {
     }
 
     const handleDone = () => {
-       
+
     }
 
     return (
-        <div className="space-y-4 text-black text-center">
-            <h2 className="animate__animated animate__fadeInDown text-center text-2xl lg:text-5xl md:text-3xl  text-white font-bold">
-                Welcome to <span className="text-lime-500">ArtisanAura</span> - Explore Our
-                <span className="block" style={{ color: 'cyan', fontWeight: 'bold' }}>
-                    {/* Style will be inherited from the parent element */}
+        <div className="space-y-4 text-black text-start">
+            <div className="text-start flex items-center gap-3 text-2xl lg:text-5xl md:text-3xl  text-white font-bold">
+                Welcome to
+                <h1 to={'/'} className="flex items-center gap-1"><h2>Tech<span className="text-blue-300">Nova</span></h2> University</h1>
+
+            </div>
+            <p className="animate__animated animate__backInRight text-[#CCCC] mt-4 max-w-[750px]">
+                Begin your digital journey at CodeCraft University. From mastering algorithms and software engineering principles to diving deep into artificial intelligence and cybersecurity, unleash your potential in the world of computer science and engineering. Start coding your future now with expertise in
+                <span className="inline" style={{ color: 'blue', fontWeight: 'bold' }}>
                     <Typewriter
-                        words={['Stoneware', 'Terra Cotta', 'Porcelain', 'Ceramics']}
-                        loop={5}
+                        words={[' Data Science', ' Machine Learning', ' Cybersecurity', ' Web Development', ' Cloud Computing']}
+                        loop={5} // loop 5 times (once for each word)
                         cursor
                         cursorStyle='_'
                         typeSpeed={70}
@@ -27,14 +31,10 @@ const BannerMessage = () => {
                         delaySpeed={1000}
                         onLoopDone={handleDone}
                         onType={handleType}
-                    />
-                </span>
-            </h2>
-            <p className="animate__animated animate__backInRight text-[#CCCC] mt-4 ">
-                Find your craft haven at ArtisanAura. From ceramics like clay-made pottery, stoneware, and porcelain to terra cotta and architectural ceramics. Discover home decor pottery too. Start now!
-            </p>
+                    />.
+                </span>            </p>
             <a data-aos-delay='400' className="animate__animated animate__bounce animate__delay-1s btn font-bold btn-accent btn-outline">
-                See Now
+                Learn More
                 <FaArrowRight />
             </a>
         </div>
