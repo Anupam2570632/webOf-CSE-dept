@@ -13,7 +13,7 @@ const BannerMessage = () => {
 
     return (
         <div className="space-y-4 text-black text-start">
-            <div className="text-start flex items-center gap-3 text-2xl lg:text-5xl md:text-3xl  text-white font-bold">
+            <div className="text-start flex flex-wrap items-center gap-3 text-2xl lg:text-5xl md:text-3xl  text-white font-bold">
                 Welcome to
                 <h1 to={'/'} className="flex items-center gap-1"><h2>Tech<span className="text-blue-300">Nova</span></h2> University</h1>
 
