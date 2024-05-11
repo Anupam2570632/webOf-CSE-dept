@@ -16,8 +16,8 @@ const NavBar = () => {
 
     const links = <>
         <li><NavLink to={'/'}>Home</NavLink></li>
-        <li><NavLink to={'/academic'}>Academic</NavLink></li>
-        <li><NavLink to={'/event'}>Event</NavLink></li>
+        <li><NavLink to={'/academic'}>Academic Programs</NavLink></li>
+        <li><NavLink to={'/teacher'}>Our Teachers</NavLink></li>
         <li><NavLink to={'/notice'}>Notice</NavLink></li>
     </>
 
@@ -44,12 +44,11 @@ const NavBar = () => {
                     <div>
                         {
                             theme ?
-                                <FiSun className="text-xl" onClick={() => setTheme(!theme)} />
+                                <FiSun className="text-2xl hover:cursor-pointer" onClick={() => setTheme(!theme)} />
                                 :
-                                <FaMoon className="text-xl" onClick={() => setTheme(!theme)} />
+                                <FaMoon className="text-2xl hover:cursor-pointer" onClick={() => setTheme(!theme)} />
                         }
                     </div>
-                    <Link to={'/login'}><button className="btn btn-secondary">LogIn</button></Link>
                 </div>
             </div>
         </div>

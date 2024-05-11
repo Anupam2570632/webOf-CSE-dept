@@ -1,0 +1,47 @@
+[
+    {
+        "name": "Prof. David Wang",
+        "designation": "Professor",
+        "image": "https://images.unsplash.com/photo-1506794778202-cad84cf45f1d?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dr. Jennifer Lopez",
+        "designation": "Professor",
+        "image": "https://images.unsplash.com/photo-1500648767791-00dcc994a43e?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dr. Sophia Lee",
+        "designation": "Professor",
+        "image": "https://images.unsplash.com/photo-1588516903720-8ceb67f9ef84?q=80&w=1944&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Prof. Michael Johnson",
+        "designation": "Associate Professor",
+        "image": "https://images.pexels.com/photos/2182970/pexels-photo-2182970.jpeg"
+    },
+    {
+        "name": "Prof. Emily White",
+        "designation": "Associate Professor",
+        "image": "https://images.unsplash.com/photo-1544005313-94ddf0286df2?q=80&w=1888&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Prof. Daniel Johnson",
+        "designation": "Associate Professor",
+        "image": "https://images.unsplash.com/photo-1562788869-4ed32648eb72?q=80&w=1772&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dr. Samantha Adams",
+        "designation": "Assistant Professor",
+        "image": "https://images.unsplash.com/photo-1602442787305-decbd65be507?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dr. Michael Smith",
+        "designation": "Assistant Professor",
+        "image": "https://images.unsplash.com/photo-1622626426572-c268eb006092?q=80&w=1887&auto=format&fit=crop&ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D"
+    },
+    {
+        "name": "Dr. Emily Chen",
+        "designation": "Assistant Professor",
+        "image": "https://images.pexels.com/photos/762020/pexels-photo-762020.jpeg?auto=compress&cs=tinysrgb&w=1260&h=750&dpr=1"
+    }
+]

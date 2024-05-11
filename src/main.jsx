@@ -10,6 +10,8 @@ import Register from './Pages/Register/Register';
 import AuthProvider from './AuthProvider/AuthProvider';
 import Notice from './Components/Navbar/Notice/Notice';
 import NoticeDetails from './Pages/NoticeDetails/NoticeDetails';
+import Teacher from './Pages/Teacher/Teacher';
+import ProgramDetails from './Pages/ProgramDetails/ProgramDetails';
 
 
 const router = createBrowserRouter([
@@ -37,6 +39,14 @@ const router = createBrowserRouter([
       {
         path: '/noticeDetails/:id',
         element: <NoticeDetails />,
+      },
+      {
+        path: '/teacher',
+        element: <Teacher />
+      },
+      {
+        path: '/programDetails/:id',
+        element: <ProgramDetails />
       }
     ]
   },
