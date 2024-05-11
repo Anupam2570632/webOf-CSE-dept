@@ -9,6 +9,7 @@ import Login from './Pages/Login/Login';
 import Register from './Pages/Register/Register';
 import AuthProvider from './AuthProvider/AuthProvider';
 import Notice from './Components/Navbar/Notice/Notice';
+import NoticeDetails from './Pages/NoticeDetails/NoticeDetails';
 
 
 const router = createBrowserRouter([
@@ -31,7 +32,11 @@ const router = createBrowserRouter([
       },
       {
         path: '/notice',
-        element:<Notice/>
+        element: <Notice />
+      },
+      {
+        path: '/noticeDetails/:id',
+        element: <NoticeDetails />,
       }
     ]
   },

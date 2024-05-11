@@ -1,5 +1,6 @@
 [
     {
+        "id": 1,
         "published_date": "2024-05-10",
         "title": "Programming Contest Announcement",
         "creator": "Dr. Emily Chen",
@@ -7,6 +8,7 @@
         "details": "Attention all CSE students! We are excited to announce the annual programming contest. This contest serves as a platform for you to demonstrate your coding prowess and problem-solving abilities. Prepare to showcase your skills and compete with fellow students in various programming challenges. Exciting prizes await the winners, including opportunities for recognition and networking within the industry. Stay tuned for more details regarding registration procedures, competition rules, and important dates. Whether you're a seasoned coder or just starting your programming journey, this contest offers a valuable opportunity to test your abilities, learn from your peers, and push the boundaries of your technical knowledge. Get ready to dive into the world of algorithms, data structures, and innovative solutions. Let's code our way to success together!"
     },
     {
+        "id": 2,
         "published_date": "2024-05-09",
         "title": "Internship Opportunity at TechCorp",
         "creator": "Prof. Michael Johnson",
@@ -14,6 +16,7 @@
         "details": "TechCorp, a leading software development company, is offering internship opportunities exclusively for CSE students. This internship program provides a unique chance for you to gain hands-on experience in a professional work environment while contributing to real-world projects. As an intern at TechCorp, you'll work alongside experienced developers, designers, and engineers, learning valuable skills and industry best practices. Whether you're interested in software development, web development, or mobile app development, TechCorp offers diverse internship roles to suit your interests and career goals. Take advantage of this opportunity to enhance your resume, expand your professional network, and kickstart your career in technology. Interested students should submit their resumes by May 20th to be considered for this exciting opportunity. Don't miss your chance to embark on a rewarding internship journey with TechCorp!"
     },
     {
+        "id": 3,
         "published_date": "2024-05-08",
         "title": "Guest Lecture on Artificial Intelligence",
         "creator": "Dr. Sophia Lee",
@@ -21,6 +24,7 @@
         "details": "We are thrilled to announce a guest lecture on 'Recent Advances in Artificial Intelligence' by Dr. Alan Smith, a renowned expert from Stanford University. Join us on May 15th at 2 PM in the CSE auditorium for an insightful session on the latest developments, trends, and challenges in the field of artificial intelligence (AI). Dr. Smith will share his expertise and research findings, covering topics such as machine learning, neural networks, natural language processing, and AI ethics. This lecture offers a valuable opportunity for students and faculty to expand their knowledge, engage in thought-provoking discussions, and gain insights into the future of AI technology. All members of the CSE community are encouraged to attend and participate in this enlightening event. Don't miss this chance to learn from one of the leading authorities in artificial intelligence. Mark your calendars and join us for an inspiring journey into the world of AI!"
     },
     {
+        "id": 4,
         "published_date": "2024-05-07",
         "title": "Reminder: Project Proposal Submission",
         "creator": "Prof. David Wang",
@@ -28,6 +32,7 @@
         "details": "This is a friendly reminder for all CSE students enrolled in the project course. The deadline for submitting project proposals is approaching fast, with submissions due on May 15th. Your project proposal is a crucial step in the project development process, outlining your project's objectives, scope, methodology, and expected outcomes. Make sure to consult with your project advisor and carefully review the submission guidelines before finalizing your proposal. Your project advisor will provide valuable feedback and guidance to help you refine your ideas and ensure the success of your project. Remember that timely submission is essential to stay on track and meet project milestones. Don't hesitate to reach out to your project advisor or course instructor if you have any questions or need assistance with your project proposal. We wish you the best of luck with your project endeavors!"
     },
     {
+        "id": 5,
         "published_date": "2024-05-06",
         "title": "Call for Papers: CSE Conference 2024",
         "creator": "Dr. Jennifer Lopez",
@@ -35,6 +40,7 @@
         "details": "The CSE department is pleased to announce the Call for Papers for the upcoming CSE Conference 2024. This conference provides a premier platform for researchers, scholars, and industry professionals to present and discuss the latest advancements, innovations, and challenges in the field of computer science and engineering. We invite original research contributions addressing a wide range of topics, including but not limited to artificial intelligence, machine learning, data science, cybersecurity, software engineering, and computer vision. Accepted papers will be presented at the conference and published in the conference proceedings, providing authors with valuable visibility and recognition within the academic community. Submissions are due by June 30th, and authors are encouraged to adhere to the submission guidelines outlined on the conference website. We look forward to receiving your contributions and welcoming you to the CSE Conference 2024!"
     },
     {
+        "id": 6,
         "published_date": "2024-05-05",
         "title": "Invitation to Research Symposium",
         "creator": "Dr. Samantha Adams",
@@ -42,6 +48,7 @@
         "details": "Dear CSE students and faculty, you are cordially invited to the annual Research Symposium hosted by the CSE department. This event showcases the latest research initiatives, projects, and discoveries from our faculty members and graduate students. Join us for a day of insightful presentations, poster sessions, and discussions on a wide range of topics spanning computer science and engineering. The Research Symposium provides a unique opportunity to learn about cutting-edge research, exchange ideas, and foster collaborations within the CSE community. Whether you're a researcher, student, or enthusiast, this event offers valuable insights and networking opportunities. Mark your calendars for the date, and stay tuned for the detailed schedule and presentation lineup. We look forward to your participation in this celebration of innovation and discovery!"
     },
     {
+        "id": 7,
         "published_date": "2024-05-04",
         "title": "Workshop on Data Analytics",
         "creator": "Prof. Daniel Johnson",
@@ -49,6 +56,7 @@
         "details": "Attention all CSE students! We are pleased to announce a workshop on data analytics, a fundamental aspect of modern computing and decision-making. In today's data-driven world, the ability to analyze and derive insights from large datasets is essential for solving complex problems and making informed decisions. This workshop will cover key concepts and techniques in data analytics, including data preprocessing, exploratory data analysis, statistical modeling, and machine learning for predictive analytics. Participants will have the opportunity to gain hands-on experience with popular data analytics tools and platforms. Whether you're a beginner or have some experience with data analysis, this workshop will provide valuable knowledge and skills to enhance your analytical capabilities. Don't miss this opportunity to delve into the fascinating world of data analytics! Register now to secure your spot."
     },
     {
+        "id": 8,
         "published_date": "2024-05-03",
         "title": "Hackathon Announcement: Innovate for Social Good",
         "creator": "Dr. Sophia Lee",
@@ -56,6 +64,7 @@
         "details": "Calling all aspiring changemakers and innovators! We're thrilled to announce the Hackathon for Social Good, an exciting opportunity to leverage technology for positive social impact. This hackathon challenges participants to develop innovative solutions to address pressing social issues facing our communities. Whether you're passionate about education, healthcare, environmental sustainability, or social justice, this hackathon welcomes ideas from all domains. Gather your team, brainstorm solutions, and build prototypes that tackle real-world problems. Mentors and experts will be available throughout the hackathon to provide guidance and support. The top teams will have the chance to pitch their solutions to a panel of judges and win prizes. Join us for a weekend of creativity, collaboration, and social innovation. Let's harness the power of technology to create a better world for all!"
     },
     {
+        "id": 9,
         "published_date": "2024-05-02",
         "title": "Career Development Workshop Series",
         "creator": "Dr. Michael Smith",
@@ -63,6 +72,7 @@
         "details": "Attention CSE students! Are you ready to take the next step in your career journey? Join us for a series of career development workshops designed to equip you with essential skills and knowledge for success in the job market. The workshop series covers a range of topics, including resume writing, interview preparation, networking strategies, and personal branding. Whether you're exploring internship opportunities, preparing for job interviews, or planning your career trajectory, these workshops will provide valuable insights and practical tips to help you achieve your goals. Each session will feature interactive activities, guest speakers from industry, and opportunities for networking with peers. Don't miss this chance to invest in your professional growth and enhance your employability. Register now to secure your spot and unlock your career potential!"
     },
     {
+        "id": 10,
         "published_date": "2024-05-01",
         "title": "Seminar on Emerging Technologies",
         "creator": "Prof. Emily White",
