@@ -7,7 +7,7 @@ const Academic = () => {
     console.log(programs)
     return (
         <div className="w-11/12 md:w-[85%] mx-auto py-10 space-y-6">
-            <h2 className="text-2xl md:text-4xl font-bold text-[#131313]">Academic Programs</h2>
+            <h2 className="text-2xl md:text-4xl font-bold">Academic Programs</h2>
             <p className="text-[#ACACAC]">Explore tech excellence at TechNova University&apos;s CSE Department. Top programs, expert faculty, endless opportunities. Start your journey now!</p>
             <hr />
             <div className="grid grid-cols-1 md:grid-cols-2 gap-4 lg:grid-cols-3">

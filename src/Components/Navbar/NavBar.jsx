@@ -1,6 +1,18 @@
+import { useState } from "react";
+import { FaMoon } from "react-icons/fa6";
+import { FiSun } from "react-icons/fi";
 import { Link, NavLink } from "react-router-dom";
 
 const NavBar = () => {
+    const [theme, setTheme] = useState(true)
+
+
+    if (theme) {
+        document.querySelector('html').setAttribute('data-theme', 'light')
+    }
+    else {
+        document.querySelector('html').setAttribute('data-theme', 'dark')
+    }
 
     const links = <>
         <li><NavLink to={'/'}>Home</NavLink></li>
@@ -23,12 +35,20 @@ const NavBar = () => {
                     </div>
                     <Link to={'/'} className="flex items-center gap-1 text-xl"><h2>Tech<span className="text-blue-300">Nova</span></h2> University</Link>
                 </div>
-                <div className="navbar-center hidden lg:flex">
+                <div className="navbar-center hidden lg:flex ">
                     <ul className="menu menu-horizontal px-1">
                         {links}
                     </ul>
                 </div>
-                <div className="navbar-end">
+                <div className="navbar-end space-x-4">
+                    <div>
+                        {
+                            theme ?
+                                <FiSun className="text-xl" onClick={() => setTheme(!theme)} />
+                                :
+                                <FaMoon className="text-xl" onClick={() => setTheme(!theme)} />
+                        }
+                    </div>
                     <Link to={'/login'}><button className="btn btn-secondary">LogIn</button></Link>
                 </div>
             </div>

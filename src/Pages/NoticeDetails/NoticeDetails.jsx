@@ -20,17 +20,17 @@ const NoticeDetails = () => {
     };
 
     return (
-        <div className="w-11/12 md:w-[60%] mx-auto border space-y-4 border-[#ccc] p-6 my-10">
+        <div className="w-11/12 md:w-[60%] mx-auto border rounded-md space-y-4 border-[#ccc] p-6 my-10">
             <div className="space-y-4">
                 <h2 className="text-xl font-bold text-blue-400">{notice?.title}</h2>
-                <h2 className="text-[18px] text-black font-medium"> Published Date : {formatDate(notice?.published_date)}</h2>
+                <h2 className="text-[18px]  font-medium"> Published Date : {formatDate(notice?.published_date)}</h2>
                 <hr />
-                <p className="text-black opacity-45">{notice?.details}</p>
+                <p className=" opacity-45">{notice?.details}</p>
             </div>
             <hr />
             <div className="flex items-end flex-col">
                 <h2 className="text-xl font-bold text-green-600">{notice?.creator}</h2>
-                <p className="text-black opacity-50">{notice?.designation}</p>
+                <p className=" opacity-50">{notice?.designation}</p>
             </div>
         </div>
     );

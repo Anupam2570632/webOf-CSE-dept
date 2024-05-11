@@ -18,7 +18,7 @@ const Notice = () => {
     return (
         <div className="py-10">
             <div className="border border-[#ccc] rounded-lg max-w-[550px] mx-auto">
-                <h2 className="border-b border-[#ccc] p-4 text-2xl font-bold bg-[#AAAA] text-blue-700 text-center">Notice Board</h2>
+                <h2 className="border-b border-[#ccc] p-4 text-2xl font-bold bg-[#AAAA] text-blue-500 text-center">Notice Board</h2>
                 <div className="flex flex-col overflow-y-scroll max-h-[500px]">
                     {notices.map((notice, idx) => (
                         <div className="border-y px-4 py-2 border-[#ccc]" key={idx}>
