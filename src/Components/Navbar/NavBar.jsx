@@ -33,7 +33,7 @@ const NavBar = () => {
                             {links}
                         </ul>
                     </div>
-                    <Link to={'/'} className="flex items-center gap-1 text-xl"><h2>Tech<span className="text-blue-300">Nova</span></h2> University</Link>
+                    <Link to={'/'} className="flex items-center gap-1 text-xl">CP CLUB</Link>
                 </div>
                 <div className="navbar-center hidden lg:flex ">
                     <ul className="menu menu-horizontal px-1">
